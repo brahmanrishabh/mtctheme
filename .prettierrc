@@ -1,0 +1,11 @@
+{
+	"trailingComma": "none",
+	"bracketSpacing": true,
+	"arrowParens": "avoid",
+	"singleQuote": true,
+	"printWidth": 80,
+	"useTabs": false,
+	"tabWidth": 4,
+	"semi": true,
+    "@wordpress/prettier-config",
+}
